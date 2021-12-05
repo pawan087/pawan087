@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Code-loving Full Stack Developer</h3>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 • 🌱 I’m currently polishing my DS/A Skills
 
