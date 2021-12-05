@@ -12,10 +12,11 @@
 
 • ⚡ Fun facts: I have a background in electrical engineering and have experience working as a design engineer. I've owned and operatered a high volume fuel-service station for over 7 years. Before that I was captain of an award-winning bhangra team, and led my team to 13 consectuive 1st place victories across North America.
 
-<h5 align="center">Connect with me on 
+
+<h4 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
   or visit my <a href="http://www.google.com">personal homepage</a>
-</h5>
+</h4>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan087&show_icons=true&theme=dark&locale=en" alt="pawan087" /></p>
 
