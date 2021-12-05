@@ -1,22 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Code-loving Full Stack Developer</h3>
 
-<h6 align="left">
 • 🌱 I’m currently polishing my DS/A Skills.
-</h6>
-<h6 align="left">
 • 👯 I’m looking to collaborate on oper source projects and volunteer work!
-</h6>
-<h6 align="left">
 • 💬  Ask me about any of my projects, I'd love to explain any of them and am very open to all feedback/critique!
-</h6>
-
-<h6 align="left">
 • 📫 Reach me through my email: chahal.pawanpreet@gmail.com
-</h6>
-<h6 align="left">
 • ⚡ Fun facts: I have a background in electrical engineering and have experience as a design engineer. I've owned and operatered a high volume fuel-service station for over 7 years. Before that I was captain of an award winning bhangra team, and led my team to 13 consectuive 1st place victories across North America.
-</h6>
 
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
