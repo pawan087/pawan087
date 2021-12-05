@@ -14,18 +14,66 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <img align="left" alt="react" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905593592972722306/react-logo-vector.png"/>
-<img align="left" alt="javascript" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905593446784462888/480px-Unofficial_JavaScript_logo_2.png"/>
-<img align="left" alt="html" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905593509329915934/logo-2582748_640.png"/>
-<img align="left" alt="css" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905593549502939146/logo-2582747_1280.png"/>
-<img align="left" alt="vscode" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905593775856951356/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
-<img align="left" alt="python" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905593898573905920/1200px-Python-logo-notext.png"/>
-<img align="left" alt="sql" width="56px" src="https://cdn.discordapp.com/attachments/886336420552269847/905594022452674620/Sql_data_base_with_logo.png"/>
-<img align="left" alt="postgresql" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905594110604349440/1200px-Postgresql_elephant.png"/>
-<img align="left" alt="docker" width="34px" src="https://cdn.discordapp.com/attachments/886336420552269847/905594569570263070/Moby-logo.png"/>
-<img align="left" alt="git" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905594660771213362/Git-Icon-1788C.png"/>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="js" width="31px" height="31px">
+</a>
 
+<a href="https://www.python.org/" title="Python">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="py" width="31px" height="31px">
+</a>
+
+<a href="https://reactjs.org/" title="React">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" width="31px" height="31px">
+</a>
+
+<a href="https://redux.js.org/" title="Redux">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="redux" width="31px" height="31px">
+</a>
+
+<a href="https://www.w3.org/TR/CSS/" title="CSS3">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css" width="31px" height="31px">
+</a>
+
+<a href="https://html.spec.whatwg.org/multipage/" title="HTML5">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="redux" width="31px" height="31px">
+</a>
+
+<a href="https://jquery.com/" title="JQuery">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jq" width="31px" height="31px">
+</a>
+
+<a href="https://www.postgresql.org/" title="PostgreSQL">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="postgresql" width="31px" height="31px">
+</a>
+
+<a href="https://www.postman.com/" title="Postman">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="postman" width="31px" height="31px">
+</a>
+
+<a href="https://pugjs.org/api/getting-started.html" title="Pug">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/pug.svg" alt="pug" width="31px" height="31px">
+</a>
+
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="git-icon" width="31px" height="31px">
+</a>
+
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="vscode" width="31px" height="31px">
+</a>
+
+<a href="https://aws.amazon.com/" title="Amazon AWS">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="aws" width="31px" height="31px">
+</a>
+
+<a href="https://www.docker.com/" title="Docker">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="31px" height="31px">
+</a>
+
+<a href="https://www.heroku.com/home" title="Heroku">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="docker" width="31px" height="31px">
+</a>
+  </p>
 
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
