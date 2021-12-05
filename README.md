@@ -26,6 +26,7 @@
 <img align="left" alt="git" width="26px" src="https://cdn.discordapp.com/attachments/886336420552269847/905594660771213362/Git-Icon-1788C.png"/>
 </p>
 
+
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
   or visit my <a href="http://www.google.com">personal homepage</a>
