@@ -69,7 +69,9 @@
 <a href="https://www.heroku.com/home" title="Heroku">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="docker" width="31px" height="31px">
 </a>
-  </p>
+</p>
+
+<br></br>
 
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
