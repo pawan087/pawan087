@@ -2,6 +2,7 @@
 <h3 align="center">Code-loving Full Stack Developer</h3>
 
 • 🌱 I’m currently polishing my DS/A Skills.
+
 • 👯 I’m looking to collaborate on oper source projects and volunteer work!
 • 💬  Ask me about any of my projects, I'd love to explain any of them and am very open to all feedback/critique!
 • 📫 Reach me through my email: chahal.pawanpreet@gmail.com
