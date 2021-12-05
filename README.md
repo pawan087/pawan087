@@ -5,6 +5,10 @@
 - 🌱 I’m currently polishing my DS/A Skills.
 </h5>
 
+<h5 align="center">
+- 👯 I’m looking to collaborate on oper source projects as well as volunteer work
+</h5>
+
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> or <a href="https://angel.co/u/pawan-chahal">AngelList</a>
   Or visit my <a href="http://www.google.com">personal homepage</a>
