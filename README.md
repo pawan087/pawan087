@@ -14,6 +14,10 @@
 </h6>
 
 <h6 align="left">
+• 📫 Reach me through my email: chahal.pawanpreet@gmail.com
+</h6>
+
+<h6 align="left">
 • ⚡ Fun facts: I have a background in electrical engineering and have experience as a design engineer. I've owned and operatered a high volume fuel-service station for over 7 years. Before that I was captain of an award winning bhangra team, and led my team to 13 consectuive 1st place victories across North America.
 </h6>
 
