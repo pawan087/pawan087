@@ -9,7 +9,7 @@
 
 • 📫 Reach me through my email: chahal.pawanpreet@gmail.com
 
-• ⚡ Fun facts: Background in electrical engineering with professional experience as a controls design engineer. Owned and operatered a high volume fuel-service station for over 7 years. Captain of an award-winning collegiate bhangra dance team, and led my team to 13 consectuive 1st place victories across North America.
+• ⚡ Fun facts: Background in electrical engineering with professional experience as a controls design engineer. Owned and operatered a high volume fuel-service station for over 7 years. Ex-captain of an award-winning collegiate dance team; led my guys to 13 consectuive 1st place victories across North America.
 
 <h3 align="center">Languages and Tools:</h3>
 
