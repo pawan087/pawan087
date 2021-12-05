@@ -38,10 +38,6 @@
   <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="redux" width="31px" height="31px">
 </a>
 
-<a href="https://jquery.com/" title="JQuery">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jq" width="31px" height="31px">
-</a>
-
 <a href="https://www.postgresql.org/" title="PostgreSQL">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="postgresql" width="31px" height="31px">
 </a>
