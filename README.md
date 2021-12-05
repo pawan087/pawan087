@@ -3,9 +3,6 @@
 
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> or <a href="https://angel.co/u/pawan-chahal">AngelList</a>
-  
-  <a href="https://linkedin.com/in/andrewderocher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewderocher" height="15" width="15" /></a> -->
-<br>
   Or visit my <a href="http://www.google.com">personal homepage</a>
 </h5>
 
