@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
-
 <h3 align="center">Code-loving Full Stack Developer</h3>
 
 • 🌱 I’m currently polishing my DS/A Skills.
