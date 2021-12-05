@@ -10,9 +10,7 @@
 </h6>
 
 <h6 align="center">
-⚡ Fun facts: I have a background in electrical engineering and have experience as an instrumentation and controls design engineer. 
-  I've also owned and operatered a high volume fuel-service station for over 7 years. 
-  Before that I was captain of an award winning bhangra team, and led my team to 13 consecturive 1st place victories across North America.
+⚡ Fun facts: I have a background in electrical engineering and have experience as an instrumentation and controls design engineer. I've also owned and operatered a high volume fuel-service station for over 7 years. Before that I was captain of an award winning bhangra team, and led my team to 13 consecturive 1st place victories across North America.
 </h6>
 
 <h5 align="center">Connect with me on 
