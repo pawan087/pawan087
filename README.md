@@ -13,11 +13,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+<p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="js" width="31px" height="31px">
 </a>
 
-<a href="https://www.python.org/" align='center' title="Python">
+<a href="https://www.python.org/" title="Python">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="py" width="31px" height="31px">
 </a>
 
@@ -72,6 +73,7 @@
 <a href="https://www.heroku.com/home" title="Heroku">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="docker" width="31px" height="31px">
 </a>
+  </p>
 
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
