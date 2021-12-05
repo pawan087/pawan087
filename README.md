@@ -5,7 +5,7 @@
 
 • 👯 I’m looking to collaborate on oper source projects and volunteer work
 
-• 💬 Ask me about any of my recent projects, I'd love to dive into them and am happily open to feedback and critique
+• 💬 Ask me about any of my recent projects! I'd love to dive into them and am happily open to feedback and critique
 
 • 📫 Reach me through my email: chahal.pawanpreet@gmail.com
 
