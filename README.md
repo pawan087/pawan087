@@ -76,6 +76,6 @@
   or visit my <a href="http://www.google.com">personal homepage</a>
 </h4>
 
-<br></br>
+<h1></h1>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan087&show_icons=true&theme=dark&locale=en" alt="pawan087" /></p>
