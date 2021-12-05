@@ -6,7 +6,7 @@
 </h5>
 
 <h6 align="center">
-- 👯 I’m looking to collaborate on oper source projects as well as volunteer work
+- 👯 I’m looking to collaborate on oper source projects and volunteer work!
 </h5>
 
 <h5 align="center">Connect with me on 
