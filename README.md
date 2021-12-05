@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Code-loving Full Stack Developer</h3>
 
-<h5 align="center">
+<h6 align="center">
 - 🌱 I’m currently polishing my DS/A Skills.
 </h5>
 
-<h5 align="center">
+<h6 align="center">
 - 👯 I’m looking to collaborate on oper source projects as well as volunteer work
 </h5>
 
