@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Code-loving Full Stack Developer</h3>
 
-![------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 • 🌱 I’m currently polishing my DS/A Skills
 
 • 👯 I’m looking to collaborate on oper source projects and volunteer work
@@ -12,8 +10,6 @@
 • 📫 Reach me through my email: chahal.pawanpreet@gmail.com
 
 • ⚡ Fun facts: Ex-captain of an award-winning collegiate dance team, winner of 13 consectuive 1st place victories across North America. Background in electrical engineering with professional experience as a Controls Design Engineer. Owned and operatered a high volume fuel-service station for over 7 years.
-
-![------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -74,8 +70,6 @@
   <img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="docker" width="31px" height="31px">
 </a>
 </p>
-
-![------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h4 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a>, <a href="https://angel.co/u/pawan-chahal">AngelList</a>
