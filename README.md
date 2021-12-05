@@ -17,7 +17,7 @@
   <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="js" width="31px" height="31px">
 </a>
 
-<a href="https://www.python.org/" title="Python">
+<a href="https://www.python.org/" align='center' title="Python">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="py" width="31px" height="31px">
 </a>
 
