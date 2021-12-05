@@ -10,7 +10,7 @@
 
 • 📫 Reach me through my email: chahal.pawanpreet@gmail.com
 
-• ⚡ Fun facts: I have a background in electrical engineering and have experience working as a design engineer. I've owned and operatered a high volume fuel-service station for over 7 years. Before that I was captain of an award-winning bhangra team, and led my team to 13 consectuive 1st place victories across North America.
+• ⚡ Fun facts: I have a background in electrical engineering and have experience working as a design engineer. I've owned and operatered a high volume fuel-service station for over 7 years. Before that I was captain of an award-winning bhangra dance team, and led my team to 13 consectuive 1st place victories across North America.
 
 <h5 align="center">Connect with me on 
   <a href="https://linkedin.com/in/pawanchahal" target="blank">Linkedin</a> <a href="https://angel.co/u/pawan-chahal">AngelList</a>
